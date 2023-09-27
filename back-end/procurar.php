@@ -40,10 +40,10 @@ if($queryVerifica >= 1){
 		$EmailEnviar->isSMTP();
 		$EmailEnviar->Host = 'smtp.hostinger.com';
 		$EmailEnviar->SMTPAuth = true;
-		$EmailEnviar->Username = 'contato@checkmat-recife.neutralcode.com.br';
-		$EmailEnviar->Password = 'Enolagay@1945';
+		$EmailEnviar->Username = '';
+		$EmailEnviar->Password = '';
 		$EmailEnviar->Port = 587;
-		$EmailEnviar->setFrom('contato@checkmat-recife.neutralcode.com.br');
+		$EmailEnviar->setFrom('');
 		$EmailEnviar->addAddress($email);
 		$EmailEnviar->isHTML(true);
 		$EmailEnviar->Subject = 'Criação de Conta appMyTreino';
