@@ -1,0 +1,135 @@
+[13-Oct-2022 21:34:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mytrei22/public_html/sys.admin/logando.php on line 3
+[13-Oct-2022 21:34:25 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mytrei22/public_html/sys.admin/logando.php:1) in /home2/mytrei22/public_html/sys.admin/logando.php on line 27
+[13-Oct-2022 21:34:51 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mytrei22/public_html/sys.admin/logando.php on line 3
+[13-Oct-2022 21:34:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mytrei22/public_html/sys.admin/logando.php:1) in /home2/mytrei22/public_html/sys.admin/logando.php on line 27
+[13-Oct-2022 21:35:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mytrei22/public_html/sys.admin/logando.php on line 3
+[13-Oct-2022 22:30:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[13-Oct-2022 22:30:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mytrei22/public_html/includes/head.php:1) in /home2/mytrei22/public_html/includes/segAdmin.php on line 4
+[13-Oct-2022 22:30:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[13-Oct-2022 22:30:47 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mytrei22/public_html/includes/head.php:1) in /home2/mytrei22/public_html/includes/segAdmin.php on line 4
+[13-Oct-2022 22:30:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[13-Oct-2022 22:31:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mytrei22/public_html/includes/head.php:1) in /home2/mytrei22/public_html/includes/seg.php on line 4
+[13-Oct-2022 22:31:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[13-Oct-2022 22:31:29 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mytrei22/public_html/includes/head.php:1) in /home2/mytrei22/public_html/includes/seg.php on line 4
+[13-Oct-2022 22:31:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[13-Oct-2022 22:32:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[13-Oct-2022 22:32:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 14:55:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 14:57:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 15:04:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 15:05:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 15:11:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 16:30:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 16:35:54 America/Fortaleza] PHP Warning:  include_once(../includes/cabecalho.php): failed to open stream: No such file or directory in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 4
+[14-Oct-2022 16:35:54 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../includes/cabecalho.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 4
+[14-Oct-2022 16:35:54 America/Fortaleza] PHP Warning:  include_once(../sys.admin/seg.php): failed to open stream: No such file or directory in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 6
+[14-Oct-2022 16:35:54 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../sys.admin/seg.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 6
+[14-Oct-2022 16:35:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/sys.admin/countGeral.php:4
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/meusalunos.php(13): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/sys.admin/countGeral.php on line 4
+[14-Oct-2022 16:37:50 America/Fortaleza] PHP Warning:  include_once(../includes/cabecalho.php): failed to open stream: No such file or directory in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 4
+[14-Oct-2022 16:37:50 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../includes/cabecalho.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 4
+[14-Oct-2022 16:37:50 America/Fortaleza] PHP Warning:  include_once(../sys.admin/seg.php): failed to open stream: No such file or directory in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 6
+[14-Oct-2022 16:37:50 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../sys.admin/seg.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 6
+[14-Oct-2022 16:37:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/sys.admin/countGeral.php:4
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/meusalunos.php(13): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/sys.admin/countGeral.php on line 4
+[14-Oct-2022 16:38:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 16:39:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 16:39:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:5
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 5
+[14-Oct-2022 19:02:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:6
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 6
+[14-Oct-2022 19:02:17 America/Fortaleza] PHP Warning:  include_once(../includes/cabecalho.php): failed to open stream: No such file or directory in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 4
+[14-Oct-2022 19:02:17 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../includes/cabecalho.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 4
+[14-Oct-2022 19:02:17 America/Fortaleza] PHP Warning:  include_once(../sys.admin/seg.php): failed to open stream: No such file or directory in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 6
+[14-Oct-2022 19:02:17 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../sys.admin/seg.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 6
+[14-Oct-2022 19:02:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/sys.admin/countGeral.php:4
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/meusalunos.php(13): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/sys.admin/countGeral.php on line 4
+[14-Oct-2022 19:03:34 America/Fortaleza] PHP Warning:  include_once(../includes/cabecalho.php): failed to open stream: No such file or directory in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 4
+[14-Oct-2022 19:03:34 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../includes/cabecalho.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 4
+[14-Oct-2022 19:03:34 America/Fortaleza] PHP Warning:  include_once(../sys.admin/seg.php): failed to open stream: No such file or directory in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 6
+[14-Oct-2022 19:03:34 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../sys.admin/seg.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/mytrei22/public_html/sys.admin/meusalunos.php on line 6
+[14-Oct-2022 19:03:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/sys.admin/countGeral.php:4
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/meusalunos.php(13): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/sys.admin/countGeral.php on line 4
+[14-Oct-2022 19:03:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_All() on bool in /home2/mytrei22/public_html/back-end/countTreinos.php:6
+Stack trace:
+#0 /home2/mytrei22/public_html/sys.admin/dashboard.php(12): include_once()
+#1 {main}
+  thrown in /home2/mytrei22/public_html/back-end/countTreinos.php on line 6
